@@ -1,1 +1,1 @@
-return 5;
+var color; color = "blue";
